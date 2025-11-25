@@ -7,7 +7,7 @@ ________________________________________
 We analyze supply chain data to spot inefficiencies, streamline product flow, and give actionable insights that guide companies in choosing the best supply chain strategy for each product
 ________________________________________
 👥 Team Members        
-- Eyad Tarek Mahmoud Allawy 
+- Eyad Tarek Mahmoud Allawy → (TEAM LEADER)
 - Amr Abdulazim Assayed Mohammad 
 - Mahmoud Ahmed Mohamed Rashidy
 - Abdelrahman Ali El sayed Mekky  
@@ -31,7 +31,7 @@ Project Files
 You can find the full project files here:
 
 📂 Google Drive Link
-https://drive.google.com/drive/u/0/folders/1jvG2j0f3lY3xV4OVYWVJwD449qkEuQ_i
+https://drive.google.com/drive/folders/1_xW3DBZDGnJ4vhpMrBrkAPCcyZhf-aGO?usp=sharing
 ________________________________________
 License
 
